@@ -16,7 +16,7 @@ cnt
 
 
 
-Combinations Of All CNT Sub-packages.
+None
 
 
 * Free software: MIT license
