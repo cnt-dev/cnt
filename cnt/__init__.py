@@ -7,4 +7,4 @@ __email__ = 'huntzhan.dev@gmail.com'
 __version__ = '0.3.0'
 
 
-import cnt_ruleseg as ruleseg  # noqa: F401
+import cnt_rulebase as rulebase  # noqa: F401

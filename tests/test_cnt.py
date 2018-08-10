@@ -2,4 +2,4 @@ import cnt
 
 
 def test_import():
-    assert cnt.ruleseg.sentseg
+    assert cnt.rulebase.sentseg
