@@ -1,4 +1,4 @@
-import cnt
+import cnt.rulebase
 
 
 def test_import():

@@ -1,1 +1,1 @@
-cnt_rulebase==0.4.0
+cnt.rulebase==0.5.1
